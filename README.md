@@ -2,7 +2,7 @@
 # NITK Velocity Racing Website
 
 This website is for **NITK Velocity Racing**, an imaginary dynamic student club from NITK Surathkal powered by MotoGP that designs, builds, and races high-performance bikes.
-
+Link to the website - https://ashutoshgupta-26.github.io/Velocity/index.html
 ---
 
 ## 🚀 Project Overview
