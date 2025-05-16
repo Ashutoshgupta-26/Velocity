@@ -38,7 +38,7 @@ The website showcases:
 ## 🎯 How to Use
 
 1. Clone the repository.
-2. Open `index.html` in any browser.
+2. Open `main.html` in any browser.
 3. Navigate through the sections via the navbar.
 4. Explore team details in `Team.html` or Clicking on Team on the navigation bar of 'main.html'.
 
